@@ -1,8 +1,8 @@
 Web Development Links
 ============
 
-- Hosting
+### Hosting
 http://jumpstarter.io/
 
-- Responsive Design
+### Responsive Design
 http://www.adamkaplan.me/grid/
