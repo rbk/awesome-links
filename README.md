@@ -15,4 +15,4 @@ Web Development Links
 - http://mdo.github.io/code-guide/ - Practice good standards
 
 ### Wordpress
-- http://underscores.me/ - Starter theme will good community support
+- http://underscores.me/ - Starter theme with good community support
