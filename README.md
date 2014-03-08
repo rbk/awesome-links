@@ -7,3 +7,12 @@ Web Development Links
 
 ### Responsive Design
  - http://www.adamkaplan.me/grid/ - Very simple and consice.
+
+ ### Articles
+ - http://zachholman.com/posts/only-90s-developers/ - 90s Web Developers
+
+ ### Guides
+ - http://mdo.github.io/code-guide/ - Practice good standards
+
+ ### Wordpress
+ - http://underscores.me/ - Starter theme will good community support
