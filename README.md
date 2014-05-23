@@ -19,3 +19,7 @@ Web Development Links
 
 ### Ruby on Rails
 - http://ryanbigg.com/2010/12/ubuntu-ruby-rvm-rails-and-you/ - The right way to install RoR
+
+### SSL Help
+- https://ssltools.websecurity.symantec.com/checker/ - Verfiy your CSRs and Certificate installations
+- http://www.digicert.com/help/ - Another nice SSL checker
