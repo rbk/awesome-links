@@ -26,3 +26,7 @@ Web Development Links
 
 ### Markdown
 - http://markdownlivepreview.com/ - This is a nice tool for readme files.
+
+### Design
+- http://fontawesome.io/ - Don't spend time with images for icons!
+- http://daneden.github.io/animate.css/ - Sweet library for adding animations.
