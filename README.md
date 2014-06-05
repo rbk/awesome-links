@@ -30,3 +30,4 @@ Web Development Links
 ### Design
 - http://fontawesome.io/ - Don't spend time with images for icons!
 - http://daneden.github.io/animate.css/ - Sweet library for adding animations.
+- http://h5bp.github.io/Effeckt.css/ - More awesome CSS3 animations!
