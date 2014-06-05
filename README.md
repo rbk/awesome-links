@@ -1,5 +1,7 @@
 Web Development Links
 ============
+### Apps
+- http://socket.io/ - Realtime engine
 
 ### Hosting
 - http://jumpstarter.io/ - Free development servers 20g per project
