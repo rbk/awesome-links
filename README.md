@@ -24,6 +24,7 @@ Web Development Links
 
 ### Wordpress
 - http://underscores.me/ - Starter theme with good community support
+- http://themecheck.org/ - ThemeCheck.org
 
 ### Ruby on Rails
 - http://ryanbigg.com/2010/12/ubuntu-ruby-rvm-rails-and-you/ - The right way to install RoR
