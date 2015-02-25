@@ -43,6 +43,7 @@ Web Development Links
 - http://h5bp.github.io/Effeckt.css/ - More awesome CSS3 animations!
 - http://www.colourlovers.com/ - Color Palettes 
 - https://fezvrasta.github.io/bootstrap-material-design/ - Material Design for Bootstrap
+- http://subtlepatterns.com/ - Free textures for your next web project
 
 ### Maps
 - http://snazzymaps.com/ - Snazzy Maps
