@@ -4,6 +4,7 @@ Web Development Links
 
 ### Sysadmin
 - http://mxtoolbox.com/ - Ultimate system admin tool.
+- https://www.whatsmydns.net/ - Great DNS tool
 
 ### Real Time
 - http://socket.io/ - Realtime engine
