@@ -11,8 +11,9 @@ Web Development Links
 - http://newrelic.com/ - Application monitoring
 
 ### Hosting
-- http://jumpstarter.io/ - Free development servers 20g per project
+- http://aws.amazon.com/ - Probably the most advanced hosting platform in the world
 - https://digitalocean.com/ - Full control over servers in the cloud
+- http://jumpstarter.io/ - Free development servers 20g per project
 
 ### Responsive Design
  - http://www.adamkaplan.me/grid/ - Very simple and concise.
