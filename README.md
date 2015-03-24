@@ -55,4 +55,5 @@ Web Development Links
 ### Icons
 - http://fortawesome.github.io/Font-Awesome/ - Font Awesome
 - http://ionicons.com/ - ION Font Icons
-- https://www.iconfinder.com/ - Awesome site for searching icon 
+- https://www.iconfinder.com/ - Awesome site for searching icon
+- http://fontello.com/ - Get only the icons you need, make your own!
