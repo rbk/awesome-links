@@ -59,3 +59,4 @@ Web Development Links
 - http://ionicons.com/ - ION Font Icons
 - https://www.iconfinder.com/ - Awesome site for searching icon
 - http://fontello.com/ - Get only the icons you need, make your own!
+- http://realfavicongenerator.net/ - Great Favicon Generator
