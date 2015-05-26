@@ -60,3 +60,6 @@ Web Development Links
 - https://www.iconfinder.com/ - Awesome site for searching icon
 - http://fontello.com/ - Get only the icons you need, make your own!
 - http://realfavicongenerator.net/ - Great Favicon Generator
+
+### Ecommerce
+- http://merch.docs.magento.com/ce/user_guide/Magento_Community_Edition_User_Guide.html - Magento Guide
