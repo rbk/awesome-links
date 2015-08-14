@@ -32,6 +32,10 @@ Web Development Links
 ### Ruby on Rails
 - http://ryanbigg.com/2010/12/ubuntu-ruby-rvm-rails-and-you/ - The right way to install RoR
 
+### NodeJS
+- http://expressjs.com/ - Web App Framework
+- https://github.com/foreverjs/forever - Run NodeJS Server forever
+
 ### SSL Help
 - https://ssltools.websecurity.symantec.com/checker/ - Verify your CSRs and Certificate installations
 - http://www.digicert.com/help/ - Another nice SSL checker
