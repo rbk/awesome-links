@@ -67,3 +67,6 @@ Web Development Links
 
 ### Ecommerce
 - http://merch.docs.magento.com/ce/user_guide/Magento_Community_Edition_User_Guide.html - Magento Guide
+
+### Typography
+- http://fontpair.co/ - Font Pair, Helpful for people that need a good font combination.
