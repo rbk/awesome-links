@@ -20,6 +20,7 @@ Web Development Links
  - http://www.adamkaplan.me/grid/ - Very simple and concise.
 
 ### Articles
+- http://davidwalsh.name/impostor-syndrome - Imposter syndrome
 - http://zachholman.com/posts/only-90s-developers/ - 90s Web Developers
 
 ### Guides
