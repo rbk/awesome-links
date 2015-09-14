@@ -69,4 +69,5 @@ Web Development Links
 - http://merch.docs.magento.com/ce/user_guide/Magento_Community_Edition_User_Guide.html - Magento Guide
 
 ### Typography
+- http://www.smashingmagazine.com/2010/11/best-practices-of-combining-typefaces/ - Great tutorial on typefaces
 - http://fontpair.co/ - Font Pair, Helpful for people that need a good font combination.
