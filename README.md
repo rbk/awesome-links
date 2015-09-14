@@ -1,7 +1,7 @@
 Web Development Links
 ============
 ### General
-- https://www.pexels.com/ - Free Stock Photograph
+- https://www.pexels.com/ - Free Stock Photography
 
 ### Sysadmin
 - http://mxtoolbox.com/ - Ultimate system admin tool.
