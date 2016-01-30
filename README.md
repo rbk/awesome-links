@@ -1,8 +1,17 @@
 Web Development Links
 ============
 ### General
+- http://www.html5rocks.com/en/tutorials/internals/howbrowserswork/ - How do web browsers actually work?
 - https://developers.google.com/ - Learn With Google
 - https://www.pexels.com/ - Free Stock Photography
+- http://callmenick.com/ - Development Tutorials
+- https://www.dev-metal.com/ - Dev Articles
+
+### PHP
+- http://www.phptherightway.com/ - Great source to learn PHP (Beginner to Advanced)
+
+### Javascript
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures - Everyone that writes javascript should understand these concepts
 
 ### Sysadmin
 - http://mxtoolbox.com/ - Ultimate system admin tool.
