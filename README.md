@@ -14,8 +14,7 @@ Web Development Links
 
 ### Hosting
 - http://aws.amazon.com/ - Probably the most advanced hosting platform in the world
-- https://digitalocean.com/ - Full control over servers in the cloud
-- http://jumpstarter.io/ - Free development servers 20g per project
+- https://digitalocean.com/ - Cheap VM servers with full root access
 
 ### Responsive Design
  - http://www.adamkaplan.me/grid/ - Very simple and concise.
