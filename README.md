@@ -7,6 +7,9 @@ Web Development Links
 - http://callmenick.com/ - Development Tutorials
 - https://www.dev-metal.com/ - Dev Articles
 
+### Just for fun
+-http://benhowdle.im/beattheclock/ - Javascript quiz
+
 ### PHP
 - http://www.phptherightway.com/ - Great source to learn PHP (Beginner to Advanced)
 
