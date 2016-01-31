@@ -29,6 +29,7 @@ Web Development Links
  - http://www.adamkaplan.me/grid/ - Very simple and concise.
 
 ### Articles
+- https://www.jitbit.com/alexblog/249-now-thats-what-i-call-a-hacker/ - Too Funny
 - http://davidwalsh.name/impostor-syndrome - Imposter syndrome
 - http://zachholman.com/posts/only-90s-developers/ - 90s Web Developers
 
