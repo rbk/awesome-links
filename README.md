@@ -6,6 +6,8 @@ Web Development Links
 - https://www.pexels.com/ - Free Stock Photography
 - http://callmenick.com/ - Development Tutorials
 - https://www.dev-metal.com/ - Dev Articles
+- http://www.askapache.com/online-tools/http-headers-tool/ - HTTP Header Tool
+- http://tools.pingdom.com/fpt/ - Pindom Page Speed Test
 
 ### Just for fun
 -http://benhowdle.im/beattheclock/ - Javascript quiz
