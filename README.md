@@ -19,10 +19,11 @@ Web Development Links
 ### Javascript
 - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures - Everyone that writes javascript should understand these concepts
 
-### Sysadmin
+### Sysadmin/DNS
 - http://www.infobyip.com/ - Get information about ip addresses
 - http://mxtoolbox.com/ - Ultimate system admin tool.
 - https://www.whatsmydns.net/ - Great DNS tool
+- https://howdns.works/ - Fantastic way to learn about DNS
 
 ### Real Time
 - http://socket.io/ - Realtime engine
