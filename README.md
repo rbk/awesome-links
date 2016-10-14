@@ -11,6 +11,7 @@ Web Development Links
 
 ### Just for fun
 -http://benhowdle.im/beattheclock/ - Javascript quiz
+-http://www.windows93.net/ - Windows 93
 
 ### PHP
 - http://www.phptherightway.com/ - Great source to learn PHP (Beginner to Advanced)
