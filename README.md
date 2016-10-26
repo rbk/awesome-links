@@ -98,3 +98,6 @@ Web Development Links
 
 ### HTML/Templates
 - http://www.layoutit.com/build - Easily build bootstrap html grids with a drag and drop interface
+
+### Python
+- http://www.fullstackpython.com/ - Learn to build a web application with Python programming language
