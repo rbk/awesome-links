@@ -1,5 +1,10 @@
 Web Development Links
 ============
+
+### Getting Started
+- http://www.afterhoursprogramming.com/ - Free learning resource for aspiring developers
+- http://freecodecamp.com/ - Another good free learning resource for aspiring developers
+
 ### General
 - http://www.html5rocks.com/en/tutorials/internals/howbrowserswork/ - How do web browsers actually work?
 - https://developers.google.com/ - Learn With Google
