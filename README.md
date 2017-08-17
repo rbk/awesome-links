@@ -7,6 +7,7 @@
 - [Ecommerce](#ecommerce)
 - [General](#general)
 - [Getting Started](#getting-started)
+- [GIT](#git) 
 - [Guides](#guides)
 - [Hosting](#hosting)
 - [HTML and Templates](#html)
@@ -45,6 +46,11 @@
 ### Ecommerce
 - https://craftcommerce.com/ - Ecommerce CMS
 - http://merch.docs.magento.com/ce/user_guide/Magento_Community_Edition_User_Guide.html - Magento Guide
+
+### GIT
+- https://medium.com/@porteneuve/mastering-git-submodules-34c65e940407 - Mastering Git submodules
+- https://medium.com/@porteneuve/mastering-git-subtrees-943d29a798ec - Mastering Git subtrees
+- https://medium.com/@v/git-subtrees-a-tutorial-6ff568381844 - git subtrees: a tutorial
 
 ### General
 - http://www.html5rocks.com/en/tutorials/internals/howbrowserswork/ - How do web browsers actually work?
