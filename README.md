@@ -74,6 +74,7 @@
 - https://www.iconfinder.com/ - Awesome site for searching icon
 - http://fontello.com/ - Get only the icons you need, make your own!
 - http://realfavicongenerator.net/ - Great Favicon Generator
+- https://thenounproject.com - Over a million curated icons, created by a global community 
 
 ### Hosting
 - http://aws.amazon.com/ - Probably the most advanced hosting platform in the world
