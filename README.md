@@ -2,6 +2,7 @@
 
 **Table of Contents**
 - [Articles](#articles)
+- [Books](#books)
 - [Design](#design)
 - [Ecommerce](#ecommerce)
 - [General](#general)
@@ -30,6 +31,10 @@
 - http://davidwalsh.name/impostor-syndrome - Imposter syndrome
 - http://zachholman.com/posts/only-90s-developers/ - 90s Web Developers
 
+### Books
+- https://drboolean.gitbooks.io/mostly-adequate-guide/content/ - Functional Programming Book
+- http://chimera.labs.oreilly.com/books/1234000000262/index.html - Another Programming Book
+
 ### Design
 - http://daneden.github.io/animate.css/ - Sweet library for adding animations.
 - http://h5bp.github.io/Effeckt.css/ - More awesome CSS3 animations!
@@ -47,8 +52,6 @@
 - https://www.pexels.com/ - Free Stock Photography
 - http://callmenick.com/ - Development Tutorials
 - https://www.dev-metal.com/ - Dev Articles
-- http://www.askapache.com/online-tools/http-headers-tool/ - HTTP Header Tool
-- http://tools.pingdom.com/fpt/ - Pingdom Page Speed Test
 - http://tohtml.com/ - Highlight your code and embed it on websites
 
 ### Getting Started
@@ -74,8 +77,6 @@
 - http://www.layoutit.com/build - Easily build bootstrap html grids with a drag and drop interface
 
 ### Javascript
-- https://drboolean.gitbooks.io/mostly-adequate-guide/content/ - Functional Programming Book
-- http://chimera.labs.oreilly.com/books/1234000000262/index.html - Another Programming Book
 - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures - Everyone that writes javascript should understand these concepts
 - http://www.unheap.com/ - Awesome JQuery Plugins
 
@@ -117,6 +118,7 @@
 - http://mxtoolbox.com/ - Ultimate system admin tool.
 - https://www.whatsmydns.net/ - Great DNS tool
 - https://howdns.works/ - Fantastic way to learn about DNS
+- http://tools.pingdom.com/fpt/ - Pingdom Page Speed Test
 
 ### SSL Help
 - https://ssltools.websecurity.symantec.com/checker/ - Verify your CSRs and Certificate installations
