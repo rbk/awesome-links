@@ -1,5 +1,7 @@
-Web Development Links
-============
+# Web Development Links
+
+## Table of Contents
+1. [Getting Started](#getting-started)
 
 ### Getting Started
 - http://www.afterhoursprogramming.com/ - Free learning resource for aspiring developers
@@ -73,7 +75,7 @@ Web Development Links
 ### Design
 - http://daneden.github.io/animate.css/ - Sweet library for adding animations.
 - http://h5bp.github.io/Effeckt.css/ - More awesome CSS3 animations!
-- http://www.colourlovers.com/ - Color Palettes 
+- http://www.colourlovers.com/ - Color Palettes
 - https://fezvrasta.github.io/bootstrap-material-design/ - Material Design for Bootstrap
 - http://subtlepatterns.com/ - Free textures for your next web project
 
