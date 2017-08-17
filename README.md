@@ -69,7 +69,6 @@
 - http://rogerdudler.github.io/git-guide/ - Git Guide
 
 ### Icons
-- https://thenounproject.com/ - Icons for Everythng (Over a million free icons)
 - http://fortawesome.github.io/Font-Awesome/ - Font Awesome
 - http://ionicons.com/ - ION Font Icons
 - https://www.iconfinder.com/ - Awesome site for searching icon
