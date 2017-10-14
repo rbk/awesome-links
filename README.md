@@ -27,6 +27,9 @@
 - [Typography](#typography)
 - [Wordpress](#wordpress)
 
+### Android
+-https://www.gitbook.com/book/google-developer-training/android-developer-fundamentals-course-practicals/details - Git book on Android Development from scratch
+
 ### Articles
 - https://www.jitbit.com/alexblog/249-now-thats-what-i-call-a-hacker/ - Too Funny
 - http://davidwalsh.name/impostor-syndrome - Imposter syndrome
