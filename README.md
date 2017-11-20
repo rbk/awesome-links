@@ -87,6 +87,7 @@
 - http://www.layoutit.com/build - Easily build bootstrap html grids with a drag and drop interface
 
 ### Javascript
+- http://superherojs.com/ - Collection of javascript
 - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures - Everyone that writes javascript should understand these concepts
 - http://www.unheap.com/ - Awesome JQuery Plugins
 
