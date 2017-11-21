@@ -29,7 +29,7 @@
 
 ### Android
 - https://www.udacity.com/course/new-android-fundamentals--ud851 - Free Android App Development Course for people with some programming experience 
--https://www.gitbook.com/book/google-developer-training/android-developer-fundamentals-course-practicals/details - Git book on Android Development from scratch
+- https://www.gitbook.com/book/google-developer-training/android-developer-fundamentals-course-practicals/details - Git book on Android Development from scratch
 
 ### Articles
 - https://www.jitbit.com/alexblog/249-now-thats-what-i-call-a-hacker/ - Too Funny
