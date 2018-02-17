@@ -103,6 +103,8 @@
 ### Maps
 - http://snazzymaps.com/ - Snazzy Maps
 - http://geojson.io/ - GeoJSON IO
+- https://www.wrld3d.com/
+- https://cesiumjs.org/
 
 ### NodeJS
 - http://expressjs.com/ - Web App Framework
@@ -131,6 +133,7 @@
 - https://www.whatsmydns.net/ - Great DNS tool
 - https://howdns.works/ - Fantastic way to learn about DNS
 - http://tools.pingdom.com/fpt/ - Pingdom Page Speed Test
+- https://developers.google.com/speed/pagespeed/insights/
 
 ### SSL Help
 - https://ssltools.websecurity.symantec.com/checker/ - Verify your CSRs and Certificate installations
@@ -140,6 +143,7 @@
 - http://www.smashingmagazine.com/2010/11/best-practices-of-combining-typefaces/ - Great tutorial on typefaces
 - http://fontpair.co/ - Font Pair, Helpful for people that need a good font combination.
 - http://www.dafont.com/ - DaFont, Free fonts
+- https://onlinefontconverter.com/
 
 ### Wordpress
 - http://underscores.me/ - Starter theme with good community support
