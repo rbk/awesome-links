@@ -96,6 +96,9 @@
 -http://benhowdle.im/beattheclock/ - Javascript quiz
 -http://www.windows93.net/ - Windows 93
 
+## Guides for Beginner Developers
+- https://css-tricks.com/guides/beginner/ - Just Starting Out with CSS & HTML
+
 ### Markdown
 - http://markdownlivepreview.com/ - This is a nice tool for readme files.
 - http://daringfireball.net/projects/markdown/syntax - Official Markdown Syntax
