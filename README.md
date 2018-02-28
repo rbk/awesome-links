@@ -9,6 +9,7 @@
 - [Getting Started](#getting-started)
 - [GIT](#git) 
 - [Guides](#guides)
+- [Guides for Beginner Developers](#guides-beginner)
 - [Hosting](#hosting)
 - [HTML and Templates](#html)
 - [Icons](#icons)
@@ -72,6 +73,9 @@
 - http://mdo.github.io/code-guide/ - Practice good standards
 - http://rogerdudler.github.io/git-guide/ - Git Guide
 
+### Guides for Beginner Developers
+- https://css-tricks.com/guides/beginner/ - Just Starting Out with CSS & HTML
+
 ### Icons
 - http://fortawesome.github.io/Font-Awesome/ - Font Awesome
 - http://ionicons.com/ - ION Font Icons
@@ -95,9 +99,6 @@
 ### Just for fun
 -http://benhowdle.im/beattheclock/ - Javascript quiz
 -http://www.windows93.net/ - Windows 93
-
-## Guides for Beginner Developers
-- https://css-tricks.com/guides/beginner/ - Just Starting Out with CSS & HTML
 
 ### Markdown
 - http://markdownlivepreview.com/ - This is a nice tool for readme files.
