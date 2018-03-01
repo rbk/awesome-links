@@ -75,6 +75,7 @@
 
 ### Guides for Beginner Developers
 - https://css-tricks.com/guides/beginner/ - Just Starting Out with CSS & HTML
+- https://css-tricks.com/snippets/css/a-guide-to-flexbox/ - Great guide/reference for Flexbox
 
 ### Icons
 - http://fortawesome.github.io/Font-Awesome/ - Font Awesome
