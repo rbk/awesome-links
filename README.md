@@ -26,6 +26,7 @@
 - [Sysadmin](#sysadmin)
 - [SSL Help](#ssl-help)
 - [Typography](#typography)
+- [VIM](#vim)
 - [Wordpress](#wordpress)
 
 ### Android
@@ -149,6 +150,10 @@
 - http://fontpair.co/ - Font Pair, Helpful for people that need a good font combination.
 - http://www.dafont.com/ - DaFont, Free fonts
 - https://onlinefontconverter.com/
+
+### Vim
+- https://vim.rtorr.com/ - Vim cheatsheet
+- https://gist.github.com/m3nd3s/3959966 - NerdTree Cheatsheet
 
 ### Wordpress
 - http://underscores.me/ - Starter theme with good community support
