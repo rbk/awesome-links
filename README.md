@@ -43,6 +43,7 @@
 - http://chimera.labs.oreilly.com/books/1234000000262/index.html - Another Programming Book
 
 ### Design
+- http://uigoodies.com/photos.html - Nice site to explore UI/Design Resources.
 - http://daneden.github.io/animate.css/ - Sweet library for adding animations.
 - http://h5bp.github.io/Effeckt.css/ - More awesome CSS3 animations!
 - http://www.colourlovers.com/ - Color Palettes
