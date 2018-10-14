@@ -1,4 +1,4 @@
-# Web Development Links
+# Awesome Links (For Web Developers/Designers)
 
 **Table of Contents**
 - [Articles](#articles)
