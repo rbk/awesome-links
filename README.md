@@ -131,6 +131,7 @@
  - http://www.adamkaplan.me/grid/ - Very simple and concise.
 
 ### Ruby on Rails
+- http://installrails.com - Great step by step tutorial on installing rails
 - https://www.railstutorial.org/ - The best way to learn Ruby on Rails
 - http://ryanbigg.com/2010/12/ubuntu-ruby-rvm-rails-and-you/ - The right way to install RoR
 
