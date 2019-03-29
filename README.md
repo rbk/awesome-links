@@ -4,6 +4,7 @@
 - [Articles](#articles)
 - [Books](#books)
 - [CSS](#css)
+- [Data](#data)
 - [Design](#design)
 - [Ecommerce](#ecommerce)
 - [General](#general)
@@ -46,6 +47,10 @@
 
 ### CSS
 - https://bulma.io/ - CSS Framework that really nails it. Simple and intuitive.
+
+### Data
+- https://www.kaggle.com/datasets - The source for datasets.
+- https://www.datacamp.com - The place to learn about data analysis via programming
 
 ### Design
 - http://uigoodies.com/photos.html - Nice site to explore UI/Design Resources.
