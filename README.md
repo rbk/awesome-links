@@ -53,10 +53,10 @@
 - https://www.datacamp.com - The place to learn about data analysis via programming
 
 ### Design
+- https://www.pexels.com/ - Free Stock Photography
 - http://uigoodies.com/photos.html - Nice site to explore UI/Design Resources.
 - http://daneden.github.io/animate.css/ - Sweet library for adding animations.
 - http://www.colourlovers.com/ - Color Palettes
-- https://fezvrasta.github.io/bootstrap-material-design/ - Material Design for Bootstrap
 - http://subtlepatterns.com/ - Free textures for your next web project
 
 ### Ecommerce
@@ -69,12 +69,9 @@
 - https://medium.com/@v/git-subtrees-a-tutorial-6ff568381844 - git subtrees: a tutorial
 
 ### General
+- https://dev.to/ - Goto source for articles related to being a web developer.
 - http://www.html5rocks.com/en/tutorials/internals/howbrowserswork/ - How do web browsers actually work?
-- https://developers.google.com/ - Learn With Google
-- https://www.pexels.com/ - Free Stock Photography
 - http://callmenick.com/ - Development Tutorials
-- https://www.dev-metal.com/ - Dev Articles
-- http://tohtml.com/ - Highlight your code and embed it on websites
 
 ### Getting Started
 - http://www.afterhoursprogramming.com/ - Free learning resource for aspiring developers
