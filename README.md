@@ -55,7 +55,6 @@
 ### Design
 - http://uigoodies.com/photos.html - Nice site to explore UI/Design Resources.
 - http://daneden.github.io/animate.css/ - Sweet library for adding animations.
-- http://h5bp.github.io/Effeckt.css/ - More awesome CSS3 animations!
 - http://www.colourlovers.com/ - Color Palettes
 - https://fezvrasta.github.io/bootstrap-material-design/ - Material Design for Bootstrap
 - http://subtlepatterns.com/ - Free textures for your next web project
