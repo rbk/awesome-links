@@ -53,6 +53,7 @@
 - https://www.datacamp.com - The place to learn about data analysis via programming
 
 ### Design
+- http://market.designmodo.com/tools/ - Plethora of tools for designers
 - https://www.pexels.com/ - Free Stock Photography
 - http://uigoodies.com/photos.html - Nice site to explore UI/Design Resources.
 - http://daneden.github.io/animate.css/ - Sweet library for adding animations.
