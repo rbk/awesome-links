@@ -99,6 +99,7 @@
 - https://digitalocean.com/ - Cheap VM servers with full root access
 
 ### HTML
+- https://cruip.com/ - Super sweet landing pages.
 - https://html5up.net/ - Amazing HTML templates for free.
 - http://www.layoutit.com/build - Easily build bootstrap html grids with a drag and drop interface
 
