@@ -3,6 +3,7 @@
 **Table of Contents**
 - [Articles](#articles)
 - [Books](#books)
+- [Community](#community)
 - [CSS](#css)
 - [Data](#data)
 - [Design](#design)
@@ -44,6 +45,10 @@
 ### Books
 - https://drboolean.gitbooks.io/mostly-adequate-guide/content/ - Functional Programming Book
 - http://chimera.labs.oreilly.com/books/1234000000262/index.html - Another Programming Book
+
+### Community
+- https://dev.to - Sweet community for web developers, designers, and data scientists.
+- https://inidehackers.com - Community about becoming a founder.
 
 ### CSS
 - https://bulma.io/ - CSS Framework that really nails it. Simple and intuitive.
