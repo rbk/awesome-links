@@ -48,7 +48,7 @@
 
 ### Community
 - https://dev.to - Sweet community for web developers, designers, and data scientists.
-- https://inidehackers.com - Community about becoming a founder.
+- https://indiehackers.com - Community about becoming a founder.
 
 ### CSS
 - https://bulma.io/ - CSS Framework that really nails it. Simple and intuitive.
