@@ -92,6 +92,7 @@
 - https://css-tricks.com/snippets/css/a-guide-to-flexbox/ - Great guide/reference for Flexbox
 
 ### Icons
+- https://ego-icons.com/ - Ego icons
 - https://romannurik.github.io/AndroidAssetStudio/icons-launcher.html - Great icon creator for your next app.
 - http://fortawesome.github.io/Font-Awesome/ - Font Awesome
 - http://ionicons.com/ - ION Font Icons
