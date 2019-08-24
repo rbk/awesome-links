@@ -27,6 +27,7 @@
 - [Real Time](#real-time)
 - [Responsive Design](#responsive-design)
 - [Ruby on Rails](#ruby-on-rails)
+- [Software Development](#software)
 - [Sysadmin](#sysadmin)
 - [SSL Help](#ssl-help)
 - [Typography](#typography)
@@ -154,6 +155,9 @@
 - http://installrails.com - Great step by step tutorial on installing rails
 - https://www.railstutorial.org/ - The best way to learn Ruby on Rails
 - http://ryanbigg.com/2010/12/ubuntu-ruby-rvm-rails-and-you/ - The right way to install RoR
+
+### Software Development
+- https://12factor.net/ - Fundamentals of scalable software  
 
 ### Sysadmin
 - http://www.infobyip.com/ - Get information about ip addresses
