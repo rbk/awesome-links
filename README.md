@@ -173,6 +173,7 @@
 
 ### Typography
 - http://www.smashingmagazine.com/2010/11/best-practices-of-combining-typefaces/ - Great tutorial on typefaces
+- https://pagecdn.com/lib/easyfonts - 'Easy Fonts' makes webfonts easy to use for developers.
 - http://fontpair.co/ - Font Pair, Helpful for people that need a good font combination.
 - http://www.dafont.com/ - DaFont, Free fonts
 - https://onlinefontconverter.com/
