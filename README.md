@@ -23,6 +23,7 @@
 - [NodeJS](#nodejs)
 - [PHP](#php)
 - [Productivity](#productivity)
+- [Programming](#programming)
 - [Python](#python)
 - [Real Time](#real-time)
 - [Responsive Design](#responsive-design)
@@ -137,6 +138,9 @@
 
 ### PHP
 - http://www.phptherightway.com/ - Great source to learn PHP (Beginner to Advanced)
+
+### Programming
+- https://mostly-adequate.gitbooks.io/mostly-adequate-guide/ - Guide to functional programming
 
 ### Productivity
 - https://www.notion.so/ - Beautiful, amazing application for managing/organizing projects, life goals, and ideas.
