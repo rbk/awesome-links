@@ -165,6 +165,7 @@
 - http://ryanbigg.com/2010/12/ubuntu-ruby-rvm-rails-and-you/ - The right way to install RoR
 
 ### Software Development
+- https://github.com/ossu/computer-science - Open Source Society University - Learn Computer Science
 - https://12factor.net/ - Fundamentals of scalable software  
 
 ### Sysadmin
