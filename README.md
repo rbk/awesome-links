@@ -5,6 +5,7 @@
 - [Articles](#articles)
 - [Books](#books)
 - [Community](#community)
+- [Computer Science](#computer-science)
 - [CSS](#css)
 - [Data](#data)
 - [Design](#design)
@@ -55,6 +56,9 @@
 ### Community
 - https://dev.to - Sweet community for web developers, designers, and data scientists.
 - https://indiehackers.com - Community about becoming a founder.
+
+### Computer Science
+- https://missing.csail.mit.edu/ - The Missing Semester of Your CS Education
 
 ### CSS
 - https://bulma.io/ - CSS Framework that really nails it. Simple and intuitive.
