@@ -10,6 +10,7 @@
 - [Data](#data)
 - [Design](#design)
 - [Ecommerce](#ecommerce)
+- [Freelance](#freelance)
 - [General](#general)
 - [Getting Started](#getting-started)
 - [GIT](#git) 
@@ -80,6 +81,9 @@
 ### Ecommerce
 - https://craftcommerce.com/ - Ecommerce CMS
 - http://merch.docs.magento.com/ce/user_guide/Magento_Community_Edition_User_Guide.html - Magento Guide
+
+### Freelance
+- https://www.docracy.com/ - Open Legal Documents with eSignatures
 
 ### GIT
 - https://medium.com/@porteneuve/mastering-git-submodules-34c65e940407 - Mastering Git submodules
