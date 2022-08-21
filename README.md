@@ -51,12 +51,11 @@
 - http://zachholman.com/posts/only-90s-developers/ - 90s Web Developers
 
 ### Books
-- https://drboolean.gitbooks.io/mostly-adequate-guide/content/ - Functional Programming Book
-- http://chimera.labs.oreilly.com/books/1234000000262/index.html - Another Programming Book
+- [Eloquent JavaScript](https://eloquentjavascript.net/)
 
 ### Community
-- https://dev.to - Sweet community for web developers, designers, and data scientists.
-- https://indiehackers.com - Community about becoming a founder.
+- https://dev.to - Community for developers.
+- https://indiehackers.com - Community for startups and founders.
 
 ### Computer Science
 - https://missing.csail.mit.edu/ - The Missing Semester of Your CS Education
@@ -91,12 +90,9 @@
 - https://medium.com/@v/git-subtrees-a-tutorial-6ff568381844 - git subtrees: a tutorial
 
 ### General
-- https://dev.to/ - Goto source for articles related to being a web developer.
 - http://www.html5rocks.com/en/tutorials/internals/howbrowserswork/ - How do web browsers actually work?
-- http://callmenick.com/ - Development Tutorials
 
 ### Getting Started
-- http://www.afterhoursprogramming.com/ - Free learning resource for aspiring developers
 - http://freecodecamp.com/ - Another good free learning resource for aspiring developers
 
 ### Guides
