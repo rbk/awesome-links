@@ -9,7 +9,6 @@
 - [CSS](#css)
 - [Data](#data)
 - [Design](#design)
-- [Ecommerce](#ecommerce)
 - [Freelance](#freelance)
 - [General](#general)
 - [Getting Started](#getting-started)
@@ -46,7 +45,6 @@
 - https://www.gitbook.com/book/google-developer-training/android-developer-fundamentals-course-practicals/details - Git book on Android Development from scratch
 
 ### Articles
-- https://www.jitbit.com/alexblog/249-now-thats-what-i-call-a-hacker/ - Too Funny
 - http://davidwalsh.name/impostor-syndrome - Imposter syndrome
 - http://zachholman.com/posts/only-90s-developers/ - 90s Web Developers
 
@@ -60,7 +58,7 @@
 ### Computer Science
 - https://missing.csail.mit.edu/ - The Missing Semester of Your CS Education
 
-### CSS
+### CSS Frameworks
 - https://bulma.io/ - CSS Framework that really nails it. Simple and intuitive.
 
 ### Data
@@ -77,32 +75,20 @@
 - http://www.colourlovers.com/ - Color Palettes
 - http://subtlepatterns.com/ - Free textures for your next web project
 
-### Ecommerce
-- https://craftcommerce.com/ - Ecommerce CMS
-- http://merch.docs.magento.com/ce/user_guide/Magento_Community_Edition_User_Guide.html - Magento Guide
-
 ### Freelance
-- https://www.docracy.com/ - Open Legal Documents with eSignatures
+- https://www.docracy.com/ - Legal Documents with eSignatures
 
 ### GIT
 - [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
 
-### General
-- [How do web browsers actually work?](http://www.html5rocks.com/en/tutorials/internals/howbrowserswork)
-
-### Getting Started
-- http://freecodecamp.com/ - Another good free learning resource for aspiring developers
-
-### Guides
-- http://mdo.github.io/code-guide/ - Practice good standards
-- http://rogerdudler.github.io/git-guide/ - Git Guide
-
-### Guides for Beginner Developers
+### Resources for New Web Developers
+- https://www.w3schools.com/ - Great place to start learning coding
 - https://css-tricks.com/guides/beginner/ - Just Starting Out with CSS & HTML
 - https://css-tricks.com/snippets/css/a-guide-to-flexbox/ - Great guide/reference for Flexbox
+- http://mdo.github.io/code-guide/ - Practice good standards
+- http://freecodecamp.com/ - Another good free learning resource for aspiring developers
 
 ### Icons
-- https://ego-icons.com/ - Ego icons
 - https://romannurik.github.io/AndroidAssetStudio/icons-launcher.html - Great icon creator for your next app.
 - http://fortawesome.github.io/Font-Awesome/ - Font Awesome
 - http://ionicons.com/ - ION Font Icons
@@ -116,14 +102,7 @@
 - https://digitalocean.com/ - Cheap VM servers with full root access
 
 ### HTML
-- https://cruip.com/ - Super sweet landing pages.
 - https://html5up.net/ - Amazing HTML templates for free.
-- http://www.layoutit.com/build - Easily build bootstrap html grids with a drag and drop interface
-
-### Javascript
-- http://superherojs.com/ - Collection of javascript
-- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures - Everyone that writes javascript should understand these concepts
-- http://www.unheap.com/ - Awesome JQuery Plugins
 
 ### Just for fun
 -http://benhowdle.im/beattheclock/ - Javascript quiz
@@ -136,12 +115,12 @@
 ### Maps
 - http://snazzymaps.com/ - Snazzy Maps
 - http://geojson.io/ - GeoJSON IO
-- https://www.wrld3d.com/
-- https://cesiumjs.org/
+- https://www.wrld3d.com/ - 3D MAPS PLATFORM
 
 ### NodeJS
 - http://expressjs.com/ - Web App Framework
 - https://github.com/foreverjs/forever - Run NodeJS Server forever
+- http://socket.io/ - Realtime engine for NodeJS
 
 ### PHP
 - http://www.phptherightway.com/ - Great source to learn PHP (Beginner to Advanced)
@@ -153,19 +132,11 @@
 - https://www.notion.so/ - Beautiful, amazing application for managing/organizing projects, life goals, and ideas.
 
 ### Python
+- https://realpython.com/ - The best Python tutorials on the internet
 - http://www.fullstackpython.com/ - Learn to build a web application with Python programming language
-
-### Real Time
-- http://socket.io/ - Realtime engine
-- http://newrelic.com/ - Application monitoring
 
 ### Responsive Design
  - http://www.adamkaplan.me/grid/ - Very simple and concise.
-
-### Ruby on Rails
-- http://installrails.com - Great step by step tutorial on installing rails
-- https://www.railstutorial.org/ - The best way to learn Ruby on Rails
-- http://ryanbigg.com/2010/12/ubuntu-ruby-rvm-rails-and-you/ - The right way to install RoR
 
 ### Software Development
 - https://github.com/ossu/computer-science - Open Source Society University - Learn Computer Science
@@ -177,7 +148,7 @@
 - https://www.whatsmydns.net/ - Great DNS tool
 - https://howdns.works/ - Fantastic way to learn about DNS
 - http://tools.pingdom.com/fpt/ - Pingdom Page Speed Test
-- https://developers.google.com/speed/pagespeed/insights/
+- https://developers.google.com/speed/pagespeed/insights/ - Speed testing for apps and websites
 
 ### SSL Help
 - https://ssltools.websecurity.symantec.com/checker/ - Verify your CSRs and Certificate installations
@@ -188,7 +159,6 @@
 - https://pagecdn.com/lib/easyfonts - 'Easy Fonts' makes webfonts easy to use for developers.
 - http://fontpair.co/ - Font Pair, Helpful for people that need a good font combination.
 - http://www.dafont.com/ - DaFont, Free fonts
-- https://onlinefontconverter.com/
 
 ### Vim
 - https://vim.rtorr.com/ - Vim cheatsheet
