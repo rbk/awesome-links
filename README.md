@@ -85,12 +85,10 @@
 - https://www.docracy.com/ - Open Legal Documents with eSignatures
 
 ### GIT
-- https://medium.com/@porteneuve/mastering-git-submodules-34c65e940407 - Mastering Git submodules
-- https://medium.com/@porteneuve/mastering-git-subtrees-943d29a798ec - Mastering Git subtrees
-- https://medium.com/@v/git-subtrees-a-tutorial-6ff568381844 - git subtrees: a tutorial
+- [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
 
 ### General
-- http://www.html5rocks.com/en/tutorials/internals/howbrowserswork/ - How do web browsers actually work?
+- [How do web browsers actually work?](http://www.html5rocks.com/en/tutorials/internals/howbrowserswork)
 
 ### Getting Started
 - http://freecodecamp.com/ - Another good free learning resource for aspiring developers
